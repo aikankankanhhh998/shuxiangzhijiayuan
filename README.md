@@ -38,7 +38,7 @@
 | 10 | 追呦文学 | https://m.zhuiyo.com | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/追呦文学.json">点击</a>
 | 11 | 起舞中文 | https://m.75zwz.com | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/起舞中文.json">点击</a>
 | 12 | 笔下文学 | https://m.99bxwx.com | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/笔下文学.json">点击</a>
-| 13 | 番茄小说sn | https://novel.snssdk.com | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/番茄小说sn.json">点击</a>
+| 13 | 番茄中文 | https://m.fqzw.net | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/番茄中文.json">点击</a>
 | 14 | 番茄小说② | https://api3-normal-lf.fqnovel.com | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/番茄小说②.json">点击</a>
 | 15 | 笔趣阁① | http://www.b5200.net | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/笔趣阁①.json">点击</a>
 | 16 | 猎文网 | https://www.liewen.la | <a href="https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/booksource/猎文网.json">点击</a>
